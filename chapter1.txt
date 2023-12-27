@@ -1,1 +1,0 @@
-This file is has to be commited. Current git status is Added in stage. 
